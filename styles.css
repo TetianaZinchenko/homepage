@@ -268,3 +268,72 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+/* My styles */
+
+.achievements__header {
+  color: var(--secondary-text-color);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.achievements__text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
+
+.professional-moments__header {
+  color: var(--secondary-text-color);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.professional-moments__text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
+.professional-moments__header {
+  color: var(--secondary-text-color);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.professional-moments__text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
+
+.life-events__header {
+  color: var(--secondary-text-color);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.life-events__text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
+
+.education__header {
+  color: var(--secondary-text-color);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.education__text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
+
+.additional {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
+
+.cat {
+  display: block;
+  object-fit: cover;
+
+  width: 100%;
+  max-width: 900px;
+}
